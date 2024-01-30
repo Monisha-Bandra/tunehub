@@ -15,9 +15,5 @@ public interface UsersService {
 	public void updateUser(Users user);
 
 	public Users getUser(String email);
-	
-	
-
-	
 
 }
